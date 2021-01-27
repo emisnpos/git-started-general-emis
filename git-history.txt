@@ -1,0 +1,29 @@
+commit b99ea2ee1753a3652cb51dd216418763793e606d
+Author: emisnpos <emisnpos@gmail.com>
+Date:   Wed Jan 27 19:42:25 2021 +0100
+
+    deleted data
+
+commit 8ab698641a81ed7d4f06c655dede23d56a237d54
+Author: emisnpos <emisnpos@gmail.com>
+Date:   Wed Jan 27 19:34:01 2021 +0100
+
+    name changed
+
+commit 7d8c6e37c4a30d34744eea886b27673380922a21
+Author: emisnpos <emisnpos@gmail.com>
+Date:   Wed Jan 27 19:31:53 2021 +0100
+
+    added sentences
+
+commit 0f98ec8cf34315d4d13110f537d0d7efa96af220
+Author: emisnpos <emisnpos@gmail.com>
+Date:   Wed Jan 27 19:24:08 2021 +0100
+
+    Second commit
+
+commit 24189c0331adcb4845fbfe55a5df60b242c78b86
+Author: emisnpos <emisnpos@gmail.com>
+Date:   Wed Jan 27 19:11:19 2021 +0100
+
+    first commit
