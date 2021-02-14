@@ -11,3 +11,9 @@ while my_list:
     my_list.remove(min)    
 
 print(new_list [0])
+
+def min(x,y):   
+    if x<= y:
+        return x
+    else: 
+        return y 
